@@ -16,7 +16,7 @@ spec:
     spec: 
      containers:
       - name: helloworld
-        image: patrah/myjsapp:v1.0.0
+        image: patrah/myjsapp:v1.0.1
         ports:
         - containerPort: 8081
 
